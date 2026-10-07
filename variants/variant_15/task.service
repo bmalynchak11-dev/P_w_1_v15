@@ -1,5 +1,7 @@
 [Unit]
-Description=TODO: реалізуйте опис
+Description=Mirror directory service
 
 [Service]
-# TODO: реалізуйте Type, User, ExecStart
+Type=oneshot
+User=backup
+ExecStart=/opt/automation/task.sh /srv/site /mnt/mirror/site

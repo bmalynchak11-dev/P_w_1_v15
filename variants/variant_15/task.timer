@@ -1,8 +1,9 @@
 [Unit]
-Description=TODO: реалізуйте опис
+Description=Mirror directory hourly timer
 
 [Timer]
-# TODO: реалізуйте OnCalendar та Persistent
+OnCalendar=*-*-* *:20:00
+Persistent=true
 
 [Install]
-# TODO: реалізуйте WantedBy
+WantedBy=timers.target

@@ -1,0 +1,5 @@
+[Unit]
+Description=Контроль вільного місця на розділах
+
+[Service]
+# TODO: реалізуйте Type, User, ExecStart

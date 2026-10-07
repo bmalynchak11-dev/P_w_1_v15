@@ -1,0 +1,5 @@
+[Unit]
+Description=Підрахунок повідомлень за рівнями
+
+[Service]
+# TODO: реалізуйте Type, User, ExecStart

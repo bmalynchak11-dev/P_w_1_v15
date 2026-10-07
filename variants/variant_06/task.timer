@@ -1,0 +1,9 @@
+[Unit]
+Description=TODO: реалізуйте опис
+
+[Timer]
+# Підказка: розклад задається в OnCalendar, пропущені запуски — через Persistent.
+# TODO: реалізуйте OnCalendar та Persistent
+
+[Install]
+# TODO: реалізуйте WantedBy

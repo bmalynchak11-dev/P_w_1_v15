@@ -1,0 +1,8 @@
+[Unit]
+Description=TODO: реалізуйте опис
+
+[Timer]
+# TODO: реалізуйте OnCalendar
+
+[Install]
+# TODO: реалізуйте WantedBy

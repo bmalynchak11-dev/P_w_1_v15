@@ -1,0 +1,9 @@
+[Unit]
+Description=TODO: реалізуйте опис
+
+[Timer]
+# Підказка: крок «кожні N хвилин» у OnCalendar записується через скісну риску.
+# TODO: реалізуйте OnCalendar
+
+[Install]
+# TODO: реалізуйте WantedBy

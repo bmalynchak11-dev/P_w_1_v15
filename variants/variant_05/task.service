@@ -1,0 +1,5 @@
+[Unit]
+Description=Аналіз невдалих входів SSH
+
+[Service]
+# TODO: реалізуйте Type, User, ExecStart

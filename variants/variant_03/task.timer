@@ -1,0 +1,8 @@
+[Unit]
+Description=Запуск контролю вільного місця кожні 15 хвилин
+
+[Timer]
+# TODO: реалізуйте OnCalendar та Persistent
+
+[Install]
+# TODO: реалізуйте WantedBy

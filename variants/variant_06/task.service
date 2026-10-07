@@ -1,0 +1,6 @@
+[Unit]
+Description=TODO: реалізуйте опис
+
+[Service]
+# Підказка: потрібні Type, User та ExecStart з абсолютним шляхом до скрипта й типовими аргументами.
+# TODO: реалізуйте Type, User, ExecStart

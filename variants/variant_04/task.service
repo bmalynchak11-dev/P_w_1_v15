@@ -1,0 +1,5 @@
+[Unit]
+Description=Аудит облікових записів
+
+[Service]
+# TODO: реалізуйте Type, User, ExecStart

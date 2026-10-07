@@ -1,0 +1,8 @@
+[Unit]
+Description=Щотижневий запуск аудиту облікових записів
+
+[Timer]
+# TODO: реалізуйте OnCalendar та Persistent
+
+[Install]
+# TODO: реалізуйте WantedBy

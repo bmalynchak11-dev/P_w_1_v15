@@ -1,0 +1,8 @@
+[Unit]
+Description=Щоденний запуск резервного копіювання
+
+[Timer]
+# TODO: реалізуйте OnCalendar та Persistent
+
+[Install]
+# TODO: реалізуйте WantedBy

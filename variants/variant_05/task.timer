@@ -1,0 +1,8 @@
+[Unit]
+Description=Запуск аналізу невдалих входів SSH кожні 10 хвилин
+
+[Timer]
+# TODO: реалізуйте OnCalendar та Persistent
+
+[Install]
+# TODO: реалізуйте WantedBy

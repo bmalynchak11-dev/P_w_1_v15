@@ -1,0 +1,9 @@
+[Unit]
+Description=TODO: реалізуйте опис
+
+[Timer]
+# Підказка: у OnCalendar можна вказати «будь-яка година» символом зірочки та фіксовану хвилину.
+# TODO: реалізуйте OnCalendar та Persistent
+
+[Install]
+# TODO: реалізуйте WantedBy

@@ -1,0 +1,6 @@
+[Unit]
+Description=TODO: реалізуйте опис
+
+[Service]
+# Підказка: потрібні Type, User та ExecStart з абсолютним шляхом до скрипта, файлом пам'яті й порогом.
+# TODO: реалізуйте Type, User, ExecStart
